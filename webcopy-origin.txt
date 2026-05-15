@@ -1,0 +1,3576 @@
+Uri: http://fonts.googleapis.com/css?family=Open+Sans:300%2C400%2C700%2C400%2C300|Libre+Baskerville:400%2C700&ver=6.9.4
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\css-1
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=Open+Sans:300%2C400%2C700%2C400%2C300|Libre+Baskerville:700%2C400&ver=6.9.4
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\css
+Content Type: text/css
+
+Uri: http://fonts.gstatic.com/s/librebaskerville/v24/kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17uj8Q4iDgNK.ttf
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\s\librebaskerville\v24\kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17uj8Q4iDgNK.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/librebaskerville/v24/kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17ujFgkiDgNK.ttf
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\s\librebaskerville\v24\kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17ujFgkiDgNK.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://jc-static.local/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/about/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\about\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/advanced-story-structure/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\advanced-story-structure\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/alternate-realities/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\alternate-realities\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/annabelfrage/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\annabelfrage\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/anniewhitehead/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\anniewhitehead\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/author/joanna-barnden/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\author\joanna-barnden\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/author/joanna-barnden/feed/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\author\joanna-barnden\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://jc-static.local/author/joanna-barnden/page/2/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\author\joanna-barnden\page\2\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/author/joanna-barnden/page/3/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\author\joanna-barnden\page\3\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/author/joanna-barnden/page/4/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\author\joanna-barnden\page\4\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/becoming-the-baddies/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\becoming-the-baddies\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/being-a-time-nazi-or-working-for-yourself/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\being-a-time-nazi-or-working-for-yourself\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/being-a-writer/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\being-a-writer\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/blog/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\blog\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/blog/page/2/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\blog\page\2\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/blog/page/3/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\blog\page\3\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/blog/page/4/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\blog\page\4\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/books/1066-upside-down/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\books\1066-upside-down\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/books/blood-queen/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\books\blood-queen\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/books/cleopatra-and-julius/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\books\cleopatra-and-julius\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/books/fire-queen/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\books\fire-queen\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/books/iron-queen/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\books\iron-queen\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/books/mary-of-magdala-the-story-of-the-church-as-you-should-have-known-it/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\books\mary-of-magdala-the-story-of-the-church-as-you-should-have-known-it\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/books/salome-the-woman-behind-the-dance/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\books\salome-the-woman-behind-the-dance\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/books/the-chosen-queen/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\books\the-chosen-queen\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/books/the-christmas-court/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\books\the-christmas-court\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/books/the-conquerors-queen/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\books\the-conquerors-queen\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/books/the-constant-queen/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\books\the-constant-queen\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/break-out-the-tartan-its-burns-night/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\break-out-the-tartan-its-burns-night\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/category/blog/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\category\blog\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/category/blog/feed/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\category\blog\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://jc-static.local/category/blog/page/2/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\category\blog\page\2\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/category/events/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\category\events\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/category/events/feed/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\category\events\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://jc-static.local/category/historymatters/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\category\historymatters\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/category/historymatters/feed/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\category\historymatters\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://jc-static.local/category/historymatters/page/2/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\category\historymatters\page\2\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/category/historymatters1/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\category\historymatters1\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/category/historymatters1/feed/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\category\historymatters1\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://jc-static.local/category/sample-stories/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\category\sample-stories\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/category/sample-stories/feed/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\category\sample-stories\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://jc-static.local/category/writing/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\category\writing\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/category/writing/feed/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\category\writing\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://jc-static.local/comments/feed/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://jc-static.local/contact/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\contact\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/did-lady-macbeth-wear-knickers/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\did-lady-macbeth-wear-knickers\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/east-meets-west/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\east-meets-west\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/fab-historical-writers-alison-morton/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\fab-historical-writers-alison-morton\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/fab-historical-writers-g-k-holloway/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\fab-historical-writers-g-k-holloway\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/fab-historical-writers-james-aitcheson/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\fab-historical-writers-james-aitcheson\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/fab-historical-writers-justin-hill/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\fab-historical-writers-justin-hill\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/fab-historical-writers-kate-thompson/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\fab-historical-writers-kate-thompson\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/feed/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://jc-static.local/ferrari-history/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\ferrari-history\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/finding-the-festive-child-inside/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\finding-the-festive-child-inside\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/guest-post-eliza-redgold-was-lady-godiva-a-warrior/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\guest-post-eliza-redgold-was-lady-godiva-a-warrior\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/helenhollick/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\helenhollick\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/in-praise-of-editors/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\in-praise-of-editors\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/in-the-still-of-the-night/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\in-the-still-of-the-night\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/is-this-a-lie-i-see-before-me/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\is-this-a-lie-i-see-before-me\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/joanna-courtney-is-born/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\joanna-courtney-is-born\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/juggling-the-family-balls/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\juggling-the-family-balls\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/little-test/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\little-test\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/moveoveralbert/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\moveoveralbert\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/my-novel-is-here/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\my-novel-is-here\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/novels/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\novels\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/patriciabracewell/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\patriciabracewell\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/post-3620/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\post-3620\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/rejection/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\rejection\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/the-battle-of-hastings/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\the-battle-of-hastings\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/the-battle-of-stamford-bridge-historys-least-celebrated-victory/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\the-battle-of-stamford-bridge-historys-least-celebrated-victory\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/the-forgotten-queens-of-1066-capturing-the-female-side-of-history/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\the-forgotten-queens-of-1066-capturing-the-female-side-of-history\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/the-girlie-side-of-the-normans/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\the-girlie-side-of-the-normans\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/the-joys-and-pains-of-reader-feedback/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\the-joys-and-pains-of-reader-feedback\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/the-perils-and-joys-of-a-book-launch/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\the-perils-and-joys-of-a-book-launch\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/the-real-lady-macbeth/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\the-real-lady-macbeth\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/the-roller-coast-first-draft/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\the-roller-coast-first-draft\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/time-tricks/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\time-tricks\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/why-do-we-love-the-queen/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\why-do-we-love-the-queen\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/why-write-historical-fiction/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\why-write-historical-fiction\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/why-writers-need-other-writers/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\why-writers-need-other-writers\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/with-a-little-help-from-heaven/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\with-a-little-help-from-heaven\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/wp-content/plugins/bb-plugin/css/jquery.bxslider.css?ver=2.10.2
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\plugins\bb-plugin\css\jquery.bxslider.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/plugins/bb-plugin/css/jquery.magnificpopup.min.css?ver=2.10.2
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\plugins\bb-plugin\css\jquery.magnificpopup.min.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/css/all.min.css?ver=2.10.2
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\css\all.min.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/css/v4-shims.min.css?ver=2.10.2
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-brands-400.eot
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://jc-static.local/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-brands-400.eot?
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://jc-static.local/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-brands-400.svg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://jc-static.local/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-brands-400.ttf
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-brands-400.ttf
+Content Type: application/font-sfnt
+
+Uri: http://jc-static.local/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-brands-400.woff
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: http://jc-static.local/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-brands-400.woff2
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-brands-400.woff2
+Content Type: application/font-woff2
+
+Uri: http://jc-static.local/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.eot
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://jc-static.local/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.eot?
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://jc-static.local/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.svg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://jc-static.local/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.ttf
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-regular-400.ttf
+Content Type: application/font-sfnt
+
+Uri: http://jc-static.local/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.woff
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: http://jc-static.local/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.woff2
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-regular-400.woff2
+Content Type: application/font-woff2
+
+Uri: http://jc-static.local/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.eot
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://jc-static.local/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.eot?
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://jc-static.local/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.svg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://jc-static.local/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.ttf
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-solid-900.ttf
+Content Type: application/font-sfnt
+
+Uri: http://jc-static.local/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.woff
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: http://jc-static.local/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.woff2
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-solid-900.woff2
+Content Type: application/font-woff2
+
+Uri: http://jc-static.local/wp-content/plugins/bb-plugin/img/bxslider/bx_loader.gif
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\plugins\bb-plugin\img\bxslider\bx_loader.gif
+Content Type: image/gif
+
+Uri: http://jc-static.local/wp-content/plugins/bb-plugin/img/bxslider/controls.png
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\plugins\bb-plugin\img\bxslider\controls.png
+Content Type: image/png
+
+Uri: http://jc-static.local/wp-content/plugins/bb-plugin/js/libs/jquery.ba-throttle-debounce.min.js?ver=2.10.2
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\plugins\bb-plugin\js\libs\jquery.ba-throttle-debounce.min.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/plugins/bb-plugin/js/libs/jquery.bxslider.min.js?ver=2.10.2
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\plugins\bb-plugin\js\libs\jquery.bxslider.min.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/plugins/bb-plugin/js/libs/jquery.easing.min.js?ver=1.4
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\plugins\bb-plugin\js\libs\jquery.easing.min.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/plugins/bb-plugin/js/libs/jquery.fitvids.min.js?ver=1.2
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\plugins\bb-plugin\js\libs\jquery.fitvids.min.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/plugins/bb-plugin/js/libs/jquery.imagesloaded.min.js?ver=2.10.2
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\plugins\bb-plugin\js\libs\jquery.imagesloaded.min.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/plugins/bb-plugin/js/libs/jquery.magnificpopup.min.js?ver=2.10.2
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\plugins\bb-plugin\js\libs\jquery.magnificpopup.min.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/themes/bb-theme-child/style.css?ver=6.9.4
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\themes\bb-theme-child\style.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/themes/bb-theme/css/base-4.min.css?ver=1.7.19.2
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\themes\bb-theme\css\base-4.min.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/themes/bb-theme/js/theme.min.js?ver=1.7.19.2
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\themes\bb-theme\js\theme.min.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/1-20150509_135405-150x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-20150509_135405-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-20150509_135405.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-20150509_135405.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-20150509_141827-180x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-20150509_141827-180x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-20150723_162705_resized-150x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-20150723_162705_resized-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-20150723_162705_resized-300x300.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-20150723_162705_resized-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-20150723_162705_resized.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-20150723_162705_resized.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-champagne.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-champagne.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-IMG_1888-200x147.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-IMG_1888-200x147.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-IMG_1888-300x220.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-IMG_1888-300x220.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-IMG_1888-400x294.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-IMG_1888-400x294.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-IMG_1888.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-IMG_1888.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-Kiev-200x138.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-Kiev-200x138.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-Kiev-300x207.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-Kiev-300x207.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-Kiev.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-Kiev.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-launch-005-150x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-launch-005-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-launch-005.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-launch-005.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-launch-006-150x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-launch-006-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-launch-006-200x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-launch-006-200x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-launch-006-300x302.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-launch-006-300x302.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-launch-006.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-launch-006.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-launch-014-150x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-launch-014-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-launch-014.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-launch-014.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-launch-024-150x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-launch-024-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-launch-024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-launch-024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-MFP_0465-150x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-MFP_0465-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-MFP_0465-300x300.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-MFP_0465-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-MFP_0465.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-MFP_0465.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-MFP_0533-150x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-MFP_0533-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-MFP_0533-300x300.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-MFP_0533-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-MFP_0533.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-MFP_0533.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-northumberland-105-200x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-northumberland-105-200x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-northumberland-105-300x225.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-northumberland-105-300x225.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-northumberland-105.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-northumberland-105.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-spain-067-150x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-spain-067-150x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-spain-067.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-spain-067.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-The-Chosen-Queen-jpeg-129x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-The-Chosen-Queen-jpeg-129x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-The-Chosen-Queen-jpeg.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-The-Chosen-Queen-jpeg.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-_MG_5640-2-129x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-_MG_5640-2-129x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-_MG_5640-2.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-_MG_5640-2.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-_MG_5952-151x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-_MG_5952-151x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1-_MG_5952.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1-_MG_5952.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1066-Upside-Down-book1-300x455.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1066-Upside-Down-book1-300x455.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/1066-Upside-Down-book1.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\1066-Upside-Down-book1.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/2016.2-2-200x197.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\2016.2-2-200x197.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/2016.2-2-768x756.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\2016.2-2-768x756.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/2016.2-2-800x788.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\2016.2-2-800x788.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/2016.2-2.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\2016.2-2.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/2c-150x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\2c-150x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/2c-768x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\2c-768x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/2c-800x1067.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\2c-800x1067.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/2c.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\2c.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/2h-e1499246604943-150x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\2h-e1499246604943-150x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/2h-e1499246604943.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\2h-e1499246604943.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/3-133x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\3-133x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/3-683x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\3-683x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/3-768x1152.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\3-768x1152.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/3-800x1200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\3-800x1200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/3.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\3.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/9a-1365x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\9a-1365x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/9a-200x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\9a-200x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/9a-768x576.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\9a-768x576.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/9a-800x600.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\9a-800x600.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/9a.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\9a.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Aa-The-Conquerors-Queen-129x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Aa-The-Conquerors-Queen-129x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Aa-The-Conquerors-Queen-663x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Aa-The-Conquerors-Queen-663x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Aa-The-Conquerors-Queen-768x1187.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Aa-The-Conquerors-Queen-768x1187.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Aa-The-Conquerors-Queen-800x1236.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Aa-The-Conquerors-Queen-800x1236.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Aa-The-Conquerors-Queen.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Aa-The-Conquerors-Queen.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Alison-1-200x134.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Alison-1-200x134.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Alison-1-300x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Alison-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Alison-1-450x300.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Alison-1-450x300.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Alison-1-600x400.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Alison-1-600x400.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Alison-1-768x513.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Alison-1-768x513.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Alison-1-800x535.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Alison-1-800x535.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Alison-1.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Alison-1.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Alison-2-200x61.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Alison-2-200x61.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Alison-2-768x235.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Alison-2-768x235.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Alison-2-800x245.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Alison-2-800x245.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Alison-2.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Alison-2.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Alison-3-1-131x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Alison-3-1-131x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Alison-3-1.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Alison-3-1.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Alison-4-200x147.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Alison-4-200x147.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Alison-4.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Alison-4.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Alison-5-200x159.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Alison-5-200x159.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Alison-5-768x610.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Alison-5-768x610.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Alison-5-800x636.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Alison-5-800x636.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Alison-5.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Alison-5.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Alison-6-200x136.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Alison-6-200x136.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Alison-6-768x523.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Alison-6-768x523.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Alison-6.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Alison-6.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/All-ww2-July-2025-5-1536x1065.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\All-ww2-July-2025-5-1536x1065.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/All-ww2-July-2025-5-300x208.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\All-ww2-July-2025-5-300x208.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/All-ww2-July-2025-5-768x533.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\All-ww2-July-2025-5-768x533.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/All-ww2-July-2025-5-800x555.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\All-ww2-July-2025-5-800x555.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/All-ww2-July-2025-5.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\All-ww2-July-2025-5.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/amazon-books-200x38.png
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\amazon-books-200x38.png
+Content Type: image/png
+
+Uri: http://jc-static.local/wp-content/uploads/amazon-books-300x58.png
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\amazon-books-300x58.png
+Content Type: image/png
+
+Uri: http://jc-static.local/wp-content/uploads/amazon-books-400x77.png
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\amazon-books-400x77.png
+Content Type: image/png
+
+Uri: http://jc-static.local/wp-content/uploads/amazon-books.png
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\amazon-books.png
+Content Type: image/png
+
+Uri: http://jc-static.local/wp-content/uploads/amazon-uk-logo-footer2-200x44-1.png
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\amazon-uk-logo-footer2-200x44-1.png
+Content Type: image/png
+
+Uri: http://jc-static.local/wp-content/uploads/Anna-1-125x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Anna-1-125x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Anna-1-640x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Anna-1-640x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Anna-1-768x1229.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Anna-1-768x1229.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Anna-1-800x1280.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Anna-1-800x1280.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Anna-1.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Anna-1.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Anna-2-200x74.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Anna-2-200x74.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Anna-2-768x284.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Anna-2-768x284.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Anna-2-800x296.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Anna-2-800x296.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Anna-2.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Anna-2.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Anna-3-1453x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Anna-3-1453x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Anna-3-200x141.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Anna-3-200x141.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Anna-3-768x541.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Anna-3-768x541.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Anna-3-800x564.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Anna-3-800x564.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Anna-3.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Anna-3.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Anna-4-176x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Anna-4-176x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Anna-4-768x871.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Anna-4-768x871.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Anna-4-800x907.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Anna-4-800x907.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Anna-4-903x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Anna-4-903x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Anna-4.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Anna-4.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Anna-5-132x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Anna-5-132x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Anna-5.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Anna-5.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Annie-1-143x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Annie-1-143x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Annie-1.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Annie-1.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/annie-2-150x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\annie-2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/annie-2-200x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\annie-2-200x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/annie-2-768x768.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\annie-2-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/annie-2.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\annie-2.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Annie-3-133x200.png
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Annie-3-133x200.png
+Content Type: image/png
+
+Uri: http://jc-static.local/wp-content/uploads/Annie-3.png
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Annie-3.png
+Content Type: image/png
+
+Uri: http://jc-static.local/wp-content/uploads/Annie-4-144x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Annie-4-144x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Annie-4-736x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Annie-4-736x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Annie-4-768x1069.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Annie-4-768x1069.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Annie-4.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Annie-4.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/autumn-007-1365x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\autumn-007-1365x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/autumn-007-200x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\autumn-007-200x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/autumn-007-768x576.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\autumn-007-768x576.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/autumn-007-800x600.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\autumn-007-800x600.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/autumn-007.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\autumn-007.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/ball-pit-1365x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\ball-pit-1365x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/ball-pit-200x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\ball-pit-200x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/ball-pit-800x600.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\ball-pit-800x600.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/ball-pit.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\ball-pit.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/battle.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\battle.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/054873fb2f60709b554ed1410fd61ec1-layout-bundle.css?ver=2.10.2-1.5.3
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\054873fb2f60709b554ed1410fd61ec1-layout-bundle.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/122-layout.css?ver=75a937dfb46ed7749d8d342846827203
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\122-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/122-layout.js?ver=53f9904250f3df4071f5470b1e7f6d87
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\122-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/126-layout.css?ver=878afff37bd5bb50b2d6d72f7ebd24a9
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\126-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/126-layout.js?ver=53f9904250f3df4071f5470b1e7f6d87
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\126-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/135-layout.css?ver=5793cb9663abd1681a6ce6e4f32d8fbd
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\135-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/135-layout.js?ver=6c10fbc44acb5c7abfec7f4ec1250fba
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\135-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/15-layout.css?ver=cb350670d0f8fbaed21a7a337be4f71b
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\15-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/15-layout.js?ver=13b61a6ba2fdf2f675125026694dc2e6
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\15-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/170-layout.css?ver=082488c006779bcf6024665c9f469c88
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\170-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/170-layout.js?ver=fcbdbd2b4d298624de2f0bd05268ddc5
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\170-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/217-layout.css?ver=f57cd150e34aef2bdfd03f87b82ef027
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\217-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/217-layout.js?ver=d204ed415c04bf68a8bf1fffaee8e6ae
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\217-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/220-layout.css?ver=06fe34ae2ed8f9b835e2f0b3f3339721
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\220-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/220-layout.js?ver=d204ed415c04bf68a8bf1fffaee8e6ae
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\220-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/238-layout.css?ver=9fdaaed56f90d697bbce41e9b4209923
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\238-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/238-layout.js?ver=d204ed415c04bf68a8bf1fffaee8e6ae
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\238-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/241-layout.css?ver=99fafcb8bc8cf424602356909cfbe8f2
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\241-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/241-layout.js?ver=4887070bc2de848d9e7c08b0dff0ae9c
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\241-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/255ec38d017630a13979c0d8f09b0325-layout-bundle.css?ver=2.10.2-1.5.3
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\255ec38d017630a13979c0d8f09b0325-layout-bundle.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/258-layout.css?ver=03d25698194c43244241a654a3874998
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\258-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/258-layout.js?ver=54657d4bd97b1443dbfdfb5a06eb08e1
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\258-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/277-layout.css?ver=2f1e9f9aa5de965633213474739f4319
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\277-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/277-layout.js?ver=d204ed415c04bf68a8bf1fffaee8e6ae
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\277-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/298-layout.css?ver=4f758a91ac376fc8ce31ca338dc7ded9
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\298-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/298-layout.js?ver=6c10fbc44acb5c7abfec7f4ec1250fba
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\298-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3193-layout.css?ver=c54439683a2999a3fea9521bc39d6e4a
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3193-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3193-layout.js?ver=d204ed415c04bf68a8bf1fffaee8e6ae
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3193-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3220-layout.css?ver=cd0249d34e1253bd14044b6fb0aa922a
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3220-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3220-layout.js?ver=d204ed415c04bf68a8bf1fffaee8e6ae
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3220-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3234-layout.css?ver=1f2af3fb6e692be78471f4035e6e417e
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3234-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3234-layout.js?ver=6c10fbc44acb5c7abfec7f4ec1250fba
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3234-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3278-layout.css?ver=d3f487b554ad4f53f0ebbcffd1bd012c
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3278-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3278-layout.js?ver=7b4ce1bf13a4dd02b529d50b11480714
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3278-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3302-layout.css?ver=00fae41b8976079a1a09c826bf30591b
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3302-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3302-layout.js?ver=d204ed415c04bf68a8bf1fffaee8e6ae
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3302-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3321-layout.css?ver=07432f28149029c3204b18c82f1f8e71
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3321-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3321-layout.js?ver=6c10fbc44acb5c7abfec7f4ec1250fba
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3321-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3343-layout.css?ver=7f00e794023dd45cc08e2199d9c88b60
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3343-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3343-layout.js?ver=6c10fbc44acb5c7abfec7f4ec1250fba
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3343-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3377-layout.css?ver=2b95e7d687a25e57ec5519874cd417a5
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3377-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3377-layout.js?ver=6c10fbc44acb5c7abfec7f4ec1250fba
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3377-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3411-layout.css?ver=23fae46d760b1a9225e7b35218170eb6
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3411-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3411-layout.js?ver=6c10fbc44acb5c7abfec7f4ec1250fba
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3411-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3462-layout.css?ver=ea04e9eb0e7921d9942bd98d05c868e0
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3462-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3462-layout.js?ver=6c10fbc44acb5c7abfec7f4ec1250fba
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3462-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3533-layout.css?ver=e3052724841406492c1e8528b5254c3a
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3533-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3533-layout.js?ver=6c10fbc44acb5c7abfec7f4ec1250fba
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3533-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3542-layout.css?ver=35362dc7bbb0ec1dda38defb942778c9
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3542-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3542-layout.js?ver=6c10fbc44acb5c7abfec7f4ec1250fba
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3542-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/35bb98f7c0f43c155ea0329dc961fc2b-layout-bundle.css?ver=2.10.2-1.5.3
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\35bb98f7c0f43c155ea0329dc961fc2b-layout-bundle.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3620-layout.css?ver=4853dd196250cbd41a622ac90913109f
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3620-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3620-layout.js?ver=0269b3d772228948cf709a47d83a9c56
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3620-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3631-layout.css?ver=46f8167b03e4ec7986b404059562e00f
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3631-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3631-layout.js?ver=1843390e29f60ad5bb212a3fe4317741
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3631-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3639-layout.css?ver=0945905f74bfb468c51a185289b7c474
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3639-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3639-layout.js?ver=d204ed415c04bf68a8bf1fffaee8e6ae
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3639-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3669-layout.css?ver=60ebca3952513508afacfa6c5fde6f6f
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3669-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3669-layout.js?ver=6c10fbc44acb5c7abfec7f4ec1250fba
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3669-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3680-layout.css?ver=56a13a00c4ff2d6ec720158b9451ffdb
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3680-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3680-layout.js?ver=6c10fbc44acb5c7abfec7f4ec1250fba
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3680-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3697-layout.css?ver=9f5cbde8049de41b3b2ba4e21ed62b6e
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3697-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3697-layout.js?ver=6c10fbc44acb5c7abfec7f4ec1250fba
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3697-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3715-layout.css?ver=74328a8f984843a2720f1d2687e6b6b2
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3715-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3715-layout.js?ver=6c10fbc44acb5c7abfec7f4ec1250fba
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3715-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3725-layout.css?ver=82a4f2f86b2f45319c298494c6b122b7
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3725-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3725-layout.js?ver=6c10fbc44acb5c7abfec7f4ec1250fba
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3725-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3738-layout.css?ver=8977c01f148eb17b18fbef4d7e74d233
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3738-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3738-layout.js?ver=6c10fbc44acb5c7abfec7f4ec1250fba
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3738-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3746-layout.css?ver=c200a859e074039be9da7d74dfa0b7f6
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3746-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3746-layout.js?ver=6c10fbc44acb5c7abfec7f4ec1250fba
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3746-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3776-layout.css?ver=6521f7770a5c791210fecfebbb6c6e5d
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3776-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3776-layout.js?ver=6c10fbc44acb5c7abfec7f4ec1250fba
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3776-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3798-layout.css?ver=33afbfe654b73421093194e76194c95d
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3798-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3798-layout.js?ver=6c10fbc44acb5c7abfec7f4ec1250fba
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3798-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/38bfbc990cd4167c7a75c48c72717b08-layout-bundle.js?ver=2.10.2-1.5.3
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\38bfbc990cd4167c7a75c48c72717b08-layout-bundle.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3b4bbba4dbe6cdac2bc1104289ca4ccf-layout-bundle.css?ver=2.10.2-1.5.3
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3b4bbba4dbe6cdac2bc1104289ca4ccf-layout-bundle.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3fa8c2effce413c565dd37614666d0e7-layout-bundle.css?ver=2.10.2-1.5.3
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3fa8c2effce413c565dd37614666d0e7-layout-bundle.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/3fd58b88c3a51461b20e53bdab9bb9df-layout-bundle.css?ver=2.10.2-1.5.3
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\3fd58b88c3a51461b20e53bdab9bb9df-layout-bundle.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/4201-layout.css?ver=a77f9168ac9edabb7f956d39e500fdb4
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\4201-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/4201-layout.js?ver=e18b4d3dbb932dc36c120cb7ec19392a
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\4201-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/4260-layout.css?ver=60527419e60749e9b0d357de7c6d43db
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\4260-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/4260-layout.js?ver=6c10fbc44acb5c7abfec7f4ec1250fba
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\4260-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/4270-layout.css?ver=198abedd23b4e17ebb677cb274faf8c5
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\4270-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/4270-layout.js?ver=6c10fbc44acb5c7abfec7f4ec1250fba
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\4270-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/4301-layout.css?ver=7fe7c74e9dfd29d18bef5ebc2b34cc10
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\4301-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/4301-layout.js?ver=e18b4d3dbb932dc36c120cb7ec19392a
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\4301-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/4326-layout.css?ver=a768f0d8cd4f17f6469bc1790f375179
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\4326-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/4326-layout.js?ver=e18b4d3dbb932dc36c120cb7ec19392a
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\4326-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/43893dadbedff510d85f9f61f18cda90-layout-bundle.css?ver=2.10.2-1.5.3
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\43893dadbedff510d85f9f61f18cda90-layout-bundle.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/4629aae0ff261948dc53d89e3508aa5b-layout-bundle.css?ver=2.10.2-1.5.3
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\4629aae0ff261948dc53d89e3508aa5b-layout-bundle.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/46749be4dc7efaffe1b5ac3c60c3e45c-layout-bundle.css?ver=2.10.2-1.5.3
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\46749be4dc7efaffe1b5ac3c60c3e45c-layout-bundle.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/4ded720a5dec7dfc1e2248ae9e37f2ae-layout-bundle.css?ver=2.10.2-1.5.3
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\4ded720a5dec7dfc1e2248ae9e37f2ae-layout-bundle.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/54-layout.css?ver=23f975f12a4d229de43fa17e5256c9b6
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\54-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/54-layout.js?ver=6c10fbc44acb5c7abfec7f4ec1250fba
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\54-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/5f16c39153f768143acb1f16314598b1-layout-bundle.css?ver=2.10.2-1.5.3
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\5f16c39153f768143acb1f16314598b1-layout-bundle.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/61-layout.css?ver=8b4d023cb0b9c6dd23db8e4ff17d06f2
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\61-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/61-layout.js?ver=6c10fbc44acb5c7abfec7f4ec1250fba
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\61-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/69-layout.css?ver=8fcfaf27b386e0518b3573238d654555
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\69-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/69-layout.js?ver=7f9de6217cb6b4cafa4b734d8ae4a8f0
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\69-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/6faf34cf4af03eb15fc82de4445c1ddf-layout-bundle.js?ver=2.10.2-1.5.3
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\6faf34cf4af03eb15fc82de4445c1ddf-layout-bundle.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/7-layout.css?ver=f430f52903ac8abcdc43ba5161741e7f
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\7-layout.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/7-layout.js?ver=92374ad43bff8b982198c6fdd8e656cb
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\7-layout.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/7b7e323026d4341706e42a8320d61c7f-layout-bundle.css?ver=2.10.2-1.5.3
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\7b7e323026d4341706e42a8320d61c7f-layout-bundle.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/8061776b19fa0e0f6caa2b06a4899e9f-layout-bundle.js?ver=2.10.2-1.5.3
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\8061776b19fa0e0f6caa2b06a4899e9f-layout-bundle.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/94b1cdfe64da092eed7c93e292e2c8f9-layout-bundle.css?ver=2.10.2-1.5.3
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\94b1cdfe64da092eed7c93e292e2c8f9-layout-bundle.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/a792f84f765c86a8dd0e445deee66b31-layout-bundle.js?ver=2.10.2-1.5.3
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\a792f84f765c86a8dd0e445deee66b31-layout-bundle.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/b944bc00fdfc38a2aa2234c177c76143-layout-bundle.css?ver=2.10.2-1.5.3
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\b944bc00fdfc38a2aa2234c177c76143-layout-bundle.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/c9d52df7fd4620c0547d6242319925bc-layout-bundle.css?ver=2.10.2-1.5.3
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\c9d52df7fd4620c0547d6242319925bc-layout-bundle.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/ff3e858aeb6e5eede9ba4cca6b01252d-layout-bundle.js?ver=2.10.2-1.5.3
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\ff3e858aeb6e5eede9ba4cca6b01252d-layout-bundle.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-content/uploads/bb-plugin/cache/Joanna-Courtney-Barnden-Profile-200x200-circle-8ee13c92f022b04f11383d7984728889-55417113689fd.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-plugin\cache\Joanna-Courtney-Barnden-Profile-200x200-circle-8ee13c92f022b04f11383d7984728889-55417113689fd.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/bb-theme/skin-6a06ebb193607.css?ver=1.7.19.2
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bb-theme\skin-6a06ebb193607.css
+Content Type: text/css
+
+Uri: http://jc-static.local/wp-content/uploads/beer-200x133.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\beer-200x133.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/beer.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\beer.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Blood-Queen-Book-300x455.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Blood-Queen-Book-300x455.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Blood-Queen-Book.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Blood-Queen-Book.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Blood-queen-pb-300x452.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Blood-queen-pb-300x452.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Blood-queen-pb.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Blood-queen-pb.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/boar-150x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\boar-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/book-depository-logo-200x49.png
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\book-depository-logo-200x49.png
+Content Type: image/png
+
+Uri: http://jc-static.local/wp-content/uploads/book-depository-logo-300x73.png
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\book-depository-logo-300x73.png
+Content Type: image/png
+
+Uri: http://jc-static.local/wp-content/uploads/book-depository-logo-400x98.png
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\book-depository-logo-400x98.png
+Content Type: image/png
+
+Uri: http://jc-static.local/wp-content/uploads/book-depository-logo.png
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\book-depository-logo.png
+Content Type: image/png
+
+Uri: http://jc-static.local/wp-content/uploads/bookshelf2-140x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bookshelf2-140x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/bookshelf2.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bookshelf2.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/bra.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\bra.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/cake1-300x477.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\cake1-300x477.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/cake1.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\cake1.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/champagne-141x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\champagne-141x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/champagne-150x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\champagne-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/champagne.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\champagne.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Christingle-300x225.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Christingle-300x225.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Christingle-768x576.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Christingle-768x576.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Christingle-800x600.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Christingle-800x600.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/christmascourt-e1441185281662-132x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\christmascourt-e1441185281662-132x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/christmascourt-e1441185281662.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\christmascourt-e1441185281662.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Cleopatra-1004x1536.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Cleopatra-1004x1536.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Cleopatra-1339x2048.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Cleopatra-1339x2048.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Cleopatra-300x459.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Cleopatra-300x459.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Cleopatra-669x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Cleopatra-669x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Cleopatra-768x1175.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Cleopatra-768x1175.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Cleopatra-scaled.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Cleopatra-scaled.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Cmas-HanAl-150x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Cmas-HanAl-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Constant-Queen-pb-132x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Constant-Queen-pb-132x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Constant-Queen-pb-676x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Constant-Queen-pb-676x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Constant-Queen-pb-768x1163.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Constant-Queen-pb-768x1163.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Constant-Queen-pb-800x1212.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Constant-Queen-pb-800x1212.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Constant-Queen-pb.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Constant-Queen-pb.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/cora-300x450.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\cora-300x450.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/cornish-desk-1365x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\cornish-desk-1365x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/cornish-desk-200x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\cornish-desk-200x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/cornish-desk-300x225.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\cornish-desk-300x225.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/cornish-desk-400x300.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\cornish-desk-400x300.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/cornish-desk-800x600.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\cornish-desk-800x600.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/cornish-desk.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\cornish-desk.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/cropped-JCfavacon-180x180.png
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\cropped-JCfavacon-180x180.png
+Content Type: image/png
+
+Uri: http://jc-static.local/wp-content/uploads/cropped-JCfavacon-192x192.png
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\cropped-JCfavacon-192x192.png
+Content Type: image/png
+
+Uri: http://jc-static.local/wp-content/uploads/cropped-JCfavacon-32x32.png
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\cropped-JCfavacon-32x32.png
+Content Type: image/png
+
+Uri: http://jc-static.local/wp-content/uploads/Daily-Express-300x163.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Daily-Express-300x163.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Daily-Express-768x419.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Daily-Express-768x419.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Daily-Express-800x436.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Daily-Express-800x436.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Daily-Express.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Daily-Express.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/do-not-disturb-150x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\do-not-disturb-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/do-not-disturb-200x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\do-not-disturb-200x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/do-not-disturb.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\do-not-disturb.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Eliza-Redgold-123x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Eliza-Redgold-123x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Eliza-Redgold-632x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Eliza-Redgold-632x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Eliza-Redgold-800x1296.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Eliza-Redgold-800x1296.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Eliza-Redgold.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Eliza-Redgold.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/ferrari-1706x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\ferrari-1706x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/ferrari-200x120.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\ferrari-200x120.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/ferrari-768x461.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\ferrari-768x461.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/ferrari-800x480.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\ferrari-800x480.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Fire-Queen-300x452.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Fire-Queen-300x452.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Fire-Queen.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Fire-Queen.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/fire.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\fire.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/fyrd-164x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\fyrd-164x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/fyrd.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\fyrd.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/game-of-thrones-1-200x133.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\game-of-thrones-1-200x133.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/game-of-thrones-1-300x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\game-of-thrones-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/game-of-thrones-1-450x300.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\game-of-thrones-1-450x300.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/game-of-thrones-1-600x400.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\game-of-thrones-1-600x400.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/game-of-thrones-1.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\game-of-thrones-1.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/glynn-1-200x187.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\glynn-1-200x187.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/glynn-1.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\glynn-1.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/glynn-2-159x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\glynn-2-159x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/glynn-2.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\glynn-2.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Glynn-3-133x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Glynn-3-133x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/goodreads-logo-200x43.png
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\goodreads-logo-200x43.png
+Content Type: image/png
+
+Uri: http://jc-static.local/wp-content/uploads/goodreads-logo-300x64.png
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\goodreads-logo-300x64.png
+Content Type: image/png
+
+Uri: http://jc-static.local/wp-content/uploads/goodreads-logo-400x86.png
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\goodreads-logo-400x86.png
+Content Type: image/png
+
+Uri: http://jc-static.local/wp-content/uploads/goodreads-logo-800x171.png
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\goodreads-logo-800x171.png
+Content Type: image/png
+
+Uri: http://jc-static.local/wp-content/uploads/goodreads-logo.png
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\goodreads-logo.png
+Content Type: image/png
+
+Uri: http://jc-static.local/wp-content/uploads/Halloween-2-150x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Halloween-2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Halloween2-2-272x500.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Halloween2-2-272x500.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Halloween2-2-557x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Halloween2-2-557x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Halloween2-2-768x1413.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Halloween2-2-768x1413.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Halloween2-2.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Halloween2-2.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/hastings-030-1365x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\hastings-030-1365x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/hastings-030-200x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\hastings-030-200x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/hastings-030-300x225.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\hastings-030-300x225.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/hastings-030-400x300.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\hastings-030-400x300.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/hastings-030-800x600.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\hastings-030-800x600.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/hastings-030.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\hastings-030.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/hastings-050-1365x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\hastings-050-1365x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/hastings-050-200x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\hastings-050-200x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/hastings-050-300x225.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\hastings-050-300x225.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/hastings-050-400x300.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\hastings-050-400x300.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/hastings-050-800x600.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\hastings-050-800x600.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/hastings-050.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\hastings-050.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/hastings-082-1-1365x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\hastings-082-1-1365x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/hastings-082-1-200x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\hastings-082-1-200x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/hastings-082-1-768x576.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\hastings-082-1-768x576.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/hastings-082-1-800x600.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\hastings-082-1-800x600.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/hastings-082-1.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\hastings-082-1.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/hastings-abbeydoor-e1537264754948.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\hastings-abbeydoor-e1537264754948.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/hastings-archers-e1537264426403.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\hastings-archers-e1537264426403.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/hastings-edith-e1537266363775.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\hastings-edith-e1537266363775.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/hastings-women-300x248.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\hastings-women-300x248.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/hb-arrives-124x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\hb-arrives-124x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/hb-arrives-186x300.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\hb-arrives-186x300.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/hb-arrives.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\hb-arrives.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/hb-arrives2-136x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\hb-arrives2-136x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/hb-arrives2-204x300.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\hb-arrives2-204x300.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/hb-arrives2.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\hb-arrives2.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Helen-1-1-186x200.png
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Helen-1-1-186x200.png
+Content Type: image/png
+
+Uri: http://jc-static.local/wp-content/uploads/Helen-1-1.png
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Helen-1-1.png
+Content Type: image/png
+
+Uri: http://jc-static.local/wp-content/uploads/Helen-2-200x155.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Helen-2-200x155.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Helen-2-768x595.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Helen-2-768x595.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Helen-2.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Helen-2.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Helen-3-200x154.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Helen-3-200x154.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Helen-3.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Helen-3.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Helen-4-200x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Helen-4-200x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Helen-4.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Helen-4.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Helen-5-200x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Helen-5-200x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Helen-5.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Helen-5.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/High-table-1536x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\High-table-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/High-table-200x133.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\High-table-200x133.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/High-table-300x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\High-table-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/High-table-450x300.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\High-table-450x300.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/High-table-600x400.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\High-table-600x400.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/High-table-768x512.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\High-table-768x512.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/High-table-800x533.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\High-table-800x533.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/High-table.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\High-table.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/hillfort-e1537278900503.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\hillfort-e1537278900503.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Iron-Queen-300x451.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Iron-Queen-300x451.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Iron-Queen.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Iron-Queen.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/jaguar-e-type-200x123.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\jaguar-e-type-200x123.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/jaguar-e-type.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\jaguar-e-type.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/James-1-130x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\James-1-130x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/James-1.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\James-1.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/James-2-130x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\James-2-130x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/James-2.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\James-2.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/James-3-189x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\James-3-189x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/James-3-768x811.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\James-3-768x811.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/James-3-800x845.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\James-3-800x845.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/James-3-970x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\James-3-970x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/James-3.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\James-3.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/James-4-200x140.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\James-4-200x140.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/James-4.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\James-4.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/joanna-courtney-logo-sml.png
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\joanna-courtney-logo-sml.png
+Content Type: image/png
+
+Uri: http://jc-static.local/wp-content/uploads/Justin-2-187x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Justin-2-187x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Justin-2-768x821.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Justin-2-768x821.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Justin-2-800x856.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Justin-2-800x856.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Justin-2-957x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Justin-2-957x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Justin-2.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Justin-2.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Justin-3-126x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Justin-3-126x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Justin-3.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Justin-3.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Justin-5-1365x1024.jpeg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Justin-5-1365x1024.jpeg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Justin-5-200x150.jpeg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Justin-5-200x150.jpeg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Justin-5-768x576.jpeg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Justin-5-768x576.jpeg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Justin-5-800x600.jpeg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Justin-5-800x600.jpeg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Justin-5.jpeg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Justin-5.jpeg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Justin-hill-200x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Justin-hill-200x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Justin-hill-768x576.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Justin-hill-768x576.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Justin-hill-800x600.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Justin-hill-800x600.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Justin-hill.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Justin-hill.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Kate-1-150x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Kate-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Kate-1-200x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Kate-1-200x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Kate-1.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Kate-1.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Kate-3-131x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Kate-3-131x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Kate-3.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Kate-3.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Kate-4-1-133x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Kate-4-1-133x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Kate-4-1-683x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Kate-4-1-683x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Kate-4-1-768x1152.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Kate-4-1-768x1152.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Kate-4-1-800x1200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Kate-4-1-800x1200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Kate-4-1.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Kate-4-1.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Kate-5-200x133.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Kate-5-200x133.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Kate-5-300x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Kate-5-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Kate-5-450x300.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Kate-5-450x300.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Kate-5.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Kate-5.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Kate-7-200x149.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Kate-7-200x149.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Kate-7.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Kate-7.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Kate-8-128x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Kate-8-128x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Kate-8-654x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Kate-8-654x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Kate-8-768x1202.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Kate-8-768x1202.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Kate-8-800x1252.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Kate-8-800x1252.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Kate-8.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Kate-8.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Kate-9-144x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Kate-9-144x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Kate-9.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Kate-9.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/kid-reading-150x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\kid-reading-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/knickers.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\knickers.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/lady-of-lake-120x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\lady-of-lake-120x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/lady-of-lake-615x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\lady-of-lake-615x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/lady-of-lake.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\lady-of-lake.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/launch-028-1365x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\launch-028-1365x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/launch-028-200x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\launch-028-200x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/launch-028-800x600.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\launch-028-800x600.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/launch-028.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\launch-028.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/loch-ness-1-e1540376746255-150x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\loch-ness-1-e1540376746255-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/loch-ness-1-e1540376746255-300x300.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\loch-ness-1-e1540376746255-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/loch-ness-1-e1540376746255-768x768.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\loch-ness-1-e1540376746255-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/loch-ness-1-e1540376746255-800x800.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\loch-ness-1-e1540376746255-800x800.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/loch-ness-1-e1540376746255.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\loch-ness-1-e1540376746255.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/loch-ness-e1537264282890.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\loch-ness-e1537264282890.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/malcolm-II-inauguration-2-150x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\malcolm-II-inauguration-2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/mary-1-300x454.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\mary-1-300x454.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/mary-1-676x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\mary-1-676x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/mary-1-768x1163.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\mary-1-768x1163.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/mary-1.bmp
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\mary-1.bmp
+Content Type: image/x-ms-bmp
+
+Uri: http://jc-static.local/wp-content/uploads/Mary-of-Magdala-300x453.webp
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Mary-of-Magdala-300x453.webp
+Content Type: image/webp
+
+Uri: http://jc-static.local/wp-content/uploads/Mary-of-Magdala-678x1024.webp
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Mary-of-Magdala-678x1024.webp
+Content Type: image/webp
+
+Uri: http://jc-static.local/wp-content/uploads/Mary-of-Magdala-768x1160.webp
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Mary-of-Magdala-768x1160.webp
+Content Type: image/webp
+
+Uri: http://jc-static.local/wp-content/uploads/Mary-of-Magdala.webp
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Mary-of-Magdala.webp
+Content Type: image/webp
+
+Uri: http://jc-static.local/wp-content/uploads/mass-150x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\mass-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/mathilda-statue.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\mathilda-statue.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/mistletoe-2-150x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\mistletoe-2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/naked-133x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\naked-133x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/naked-683x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\naked-683x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/naked-800x1200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\naked-800x1200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/naked.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\naked.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Nativity-150x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Nativity-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Nessie1-300x169.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Nessie1-300x169.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Nessie1.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Nessie1.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/normans2-200x169.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\normans2-200x169.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/normans2.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\normans2.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/office-007-1365x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\office-007-1365x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/office-007-200x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\office-007-200x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/office-007-768x576.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\office-007-768x576.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/office-007-800x600.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\office-007-800x600.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/office-007.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\office-007.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/office-009-1365x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\office-009-1365x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/office-009-200x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\office-009-200x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/office-009-768x576.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\office-009-768x576.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/office-009-800x600.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\office-009-800x600.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/office-009.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\office-009.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/P1040113-1365x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\P1040113-1365x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/P1040113-200x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\P1040113-200x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/P1040113-768x576.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\P1040113-768x576.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/P1040113-800x600.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\P1040113-800x600.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/P1040113.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\P1040113.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/papal-banner-170x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\papal-banner-170x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/papal-banner.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\papal-banner.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Pat-1-130x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Pat-1-130x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Pat-1.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Pat-1.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Pat-2-130x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Pat-2-130x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Pat-2.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Pat-2.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Pat-3-134x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Pat-3-134x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/pat-4-200x129.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\pat-4-200x129.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/pat-4.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\pat-4.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/pmlogotrans-200x27.png
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\pmlogotrans-200x27.png
+Content Type: image/png
+
+Uri: http://jc-static.local/wp-content/uploads/pmlogotrans-300x41.png
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\pmlogotrans-300x41.png
+Content Type: image/png
+
+Uri: http://jc-static.local/wp-content/uploads/pmlogotrans-400x55.png
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\pmlogotrans-400x55.png
+Content Type: image/png
+
+Uri: http://jc-static.local/wp-content/uploads/pmlogotrans-800x110.png
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\pmlogotrans-800x110.png
+Content Type: image/png
+
+Uri: http://jc-static.local/wp-content/uploads/pmlogotrans.png
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\pmlogotrans.png
+Content Type: image/png
+
+Uri: http://jc-static.local/wp-content/uploads/roller-coaster-1094x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\roller-coaster-1094x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/roller-coaster-200x187.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\roller-coaster-200x187.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/roller-coaster-300x281.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\roller-coaster-300x281.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/roller-coaster-400x375.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\roller-coaster-400x375.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/roller-coaster-800x749.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\roller-coaster-800x749.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/roller-coaster.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\roller-coaster.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/rome-150x150.gif
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\rome-150x150.gif
+Content Type: image/gif
+
+Uri: http://jc-static.local/wp-content/uploads/runner-175x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\runner-175x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/runner.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\runner.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Salome-300x460.webp
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Salome-300x460.webp
+Content Type: image/webp
+
+Uri: http://jc-static.local/wp-content/uploads/Salome-667x1024.webp
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Salome-667x1024.webp
+Content Type: image/webp
+
+Uri: http://jc-static.local/wp-content/uploads/Salome-768x1178.webp
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Salome-768x1178.webp
+Content Type: image/webp
+
+Uri: http://jc-static.local/wp-content/uploads/Salome.webp
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Salome.webp
+Content Type: image/webp
+
+Uri: http://jc-static.local/wp-content/uploads/seamstress-150x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\seamstress-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/seamstress-300x300.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\seamstress-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/seamstress.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\seamstress.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/ShieldWall-200x107.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\ShieldWall-200x107.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/ShieldWall.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\ShieldWall.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/snowy-pine.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\snowy-pine.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Spain-318-1365x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Spain-318-1365x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Spain-318-200x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Spain-318-200x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Spain-318-800x600.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Spain-318-800x600.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Spain-318.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Spain-318.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/still-night.pdf
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\still-night.pdf
+Content Type: application/pdf
+
+Uri: http://jc-static.local/wp-content/uploads/sutton-hoo-150x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\sutton-hoo-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/The-Chosen-Queen-132x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\The-Chosen-Queen-132x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/The-Chosen-Queen-cover-131x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\The-Chosen-Queen-cover-131x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/The-Chosen-Queen-cover.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\The-Chosen-Queen-cover.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/The-Chosen-Queen.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\The-Chosen-Queen.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/The-Christmas-Court-132x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\The-Christmas-Court-132x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/The-Christmas-Court.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\The-Christmas-Court.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/The-Conquerors-Queen-1-132x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\The-Conquerors-Queen-1-132x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/The-Conquerors-Queen-1.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\The-Conquerors-Queen-1.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/The-Constant-Queen-131x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\The-Constant-Queen-131x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/The-Constant-Queen.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\The-Constant-Queen.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/the-queen1-145x200.jpeg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\the-queen1-145x200.jpeg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/the-queen1-740x1024.jpeg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\the-queen1-740x1024.jpeg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/the-queen1-768x1063.jpeg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\the-queen1-768x1063.jpeg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/the-queen1.jpeg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\the-queen1.jpeg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/the-queen3-200x100.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\the-queen3-200x100.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/the-queen3.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\the-queen3.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/the-queen5-200x112.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\the-queen5-200x112.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/the-queen5.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\the-queen5.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/the-queen7-200x100.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\the-queen7-200x100.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/the-queen7.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\the-queen7.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/The-Queens-of-the-Conquest-1-200x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\The-Queens-of-the-Conquest-1-200x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/The-Queens-of-the-Conquest-1-768x576.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\The-Queens-of-the-Conquest-1-768x576.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/The-Queens-of-the-Conquest-1-800x600.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\The-Queens-of-the-Conquest-1-800x600.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/The-Queens-of-the-Conquest-1.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\The-Queens-of-the-Conquest-1.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Time-Trick-Joanna-Barnden.pdf
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Time-Trick-Joanna-Barnden.pdf
+Content Type: application/pdf
+
+Uri: http://jc-static.local/wp-content/uploads/toasting-feet-300x406.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\toasting-feet-300x406.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/toasting-feet.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\toasting-feet.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/tom-hughes-2-150x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\tom-hughes-2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/tom-hughes-2-200x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\tom-hughes-2-200x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/tom-hughes-2.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\tom-hughes-2.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/tree-150x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\tree-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/two-3-150x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\two-3-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/viking-funny-200x113.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\viking-funny-200x113.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/viking-funny.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\viking-funny.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/viking-on-bridge-200x144.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\viking-on-bridge-200x144.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/viking-on-bridge.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\viking-on-bridge.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/viking-pattern.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\viking-pattern.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/viking-ship4-200x124.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\viking-ship4-200x124.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/viking-ship4.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\viking-ship4.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/vikings-vs-saxons-200x133.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\vikings-vs-saxons-200x133.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/vikings-vs-saxons-300x200.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\vikings-vs-saxons-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/vikings-vs-saxons-450x300.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\vikings-vs-saxons-450x300.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/vikings-vs-saxons-600x400.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\vikings-vs-saxons-600x400.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/vikings-vs-saxons-768x512.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\vikings-vs-saxons-768x512.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/vikings-vs-saxons.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\vikings-vs-saxons.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/wassail-1-200x120.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\wassail-1-200x120.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/wassail-1.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\wassail-1.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/wassail-200x120.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\wassail-200x120.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/wassail.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\wassail.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/wassail2-150x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\wassail2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/whisky-2-150x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\whisky-2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/william-200x170.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\william-200x170.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/william.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\william.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Window-Seat-pic-1287x1024.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Window-Seat-pic-1287x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Window-Seat-pic-200x159.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Window-Seat-pic-200x159.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Window-Seat-pic-300x239.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Window-Seat-pic-300x239.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Window-Seat-pic-400x318.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Window-Seat-pic-400x318.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Window-Seat-pic-800x637.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Window-Seat-pic-800x637.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/Window-Seat-pic.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\Window-Seat-pic.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-content/uploads/witches-2-150x150.jpg
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-content\uploads\witches-2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://jc-static.local/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: http://jc-static.local/wp-json/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fabout%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fabout%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fadvanced-story-structure%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-114
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fadvanced-story-structure%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-115
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Falternate-realities%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-98
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Falternate-realities%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-99
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fannabelfrage%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-58
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fannabelfrage%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-59
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fanniewhitehead%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-60
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fanniewhitehead%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-61
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fbecoming-the-baddies%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-88
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fbecoming-the-baddies%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-89
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fbeing-a-time-nazi-or-working-for-yourself%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-68
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fbeing-a-time-nazi-or-working-for-yourself%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-69
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fbeing-a-writer%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-100
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fbeing-a-writer%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-101
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fbooks%2F1066-upside-down%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fbooks%2F1066-upside-down%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fbooks%2Fblood-queen%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fbooks%2Fblood-queen%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fbooks%2Fcleopatra-and-julius%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fbooks%2Fcleopatra-and-julius%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fbooks%2Ffire-queen%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fbooks%2Ffire-queen%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fbooks%2Firon-queen%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fbooks%2Firon-queen%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fbooks%2Fmary-of-magdala-the-story-of-the-church-as-you-should-have-known-it%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fbooks%2Fmary-of-magdala-the-story-of-the-church-as-you-should-have-known-it%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fbooks%2Fsalome-the-woman-behind-the-dance%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fbooks%2Fsalome-the-woman-behind-the-dance%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fbooks%2Fthe-chosen-queen%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fbooks%2Fthe-chosen-queen%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fbooks%2Fthe-christmas-court%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fbooks%2Fthe-christmas-court%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fbooks%2Fthe-conquerors-queen%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fbooks%2Fthe-conquerors-queen%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fbooks%2Fthe-constant-queen%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fbooks%2Fthe-constant-queen%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fbreak-out-the-tartan-its-burns-night%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fbreak-out-the-tartan-its-burns-night%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fcontact%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fcontact%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fdid-lady-macbeth-wear-knickers%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fdid-lady-macbeth-wear-knickers%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Feast-meets-west%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-62
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Feast-meets-west%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-63
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Ffab-historical-writers-alison-morton%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Ffab-historical-writers-alison-morton%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Ffab-historical-writers-g-k-holloway%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-52
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Ffab-historical-writers-g-k-holloway%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-53
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Ffab-historical-writers-james-aitcheson%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-50
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Ffab-historical-writers-james-aitcheson%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-51
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Ffab-historical-writers-justin-hill%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Ffab-historical-writers-justin-hill%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Ffab-historical-writers-kate-thompson%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-56
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Ffab-historical-writers-kate-thompson%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-57
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fferrari-history%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-70
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fferrari-history%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-71
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Ffinding-the-festive-child-inside%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Ffinding-the-festive-child-inside%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fguest-post-eliza-redgold-was-lady-godiva-a-warrior%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-80
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fguest-post-eliza-redgold-was-lady-godiva-a-warrior%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-81
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fhelenhollick%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-54
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fhelenhollick%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-55
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fin-praise-of-editors%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-104
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fin-praise-of-editors%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-105
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fin-the-still-of-the-night%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-110
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fin-the-still-of-the-night%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-111
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fis-this-a-lie-i-see-before-me%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fis-this-a-lie-i-see-before-me%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fjoanna-courtney-is-born%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-106
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fjoanna-courtney-is-born%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-107
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fjuggling-the-family-balls%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-78
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fjuggling-the-family-balls%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-79
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Flittle-test%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-116
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Flittle-test%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-117
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fmoveoveralbert%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-76
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fmoveoveralbert%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-77
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fmy-novel-is-here%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-92
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fmy-novel-is-here%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-93
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fnovels%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fnovels%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fpatriciabracewell%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fpatriciabracewell%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fpost-3620%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-64
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fpost-3620%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-65
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Frejection%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-102
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Frejection%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-103
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fthe-battle-of-hastings%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-84
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fthe-battle-of-hastings%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-85
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fthe-battle-of-stamford-bridge-historys-least-celebrated-victory%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-66
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fthe-battle-of-stamford-bridge-historys-least-celebrated-victory%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-67
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fthe-forgotten-queens-of-1066-capturing-the-female-side-of-history%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fthe-forgotten-queens-of-1066-capturing-the-female-side-of-history%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fthe-girlie-side-of-the-normans%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fthe-girlie-side-of-the-normans%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fthe-joys-and-pains-of-reader-feedback%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-96
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fthe-joys-and-pains-of-reader-feedback%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-97
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fthe-perils-and-joys-of-a-book-launch%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-90
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fthe-perils-and-joys-of-a-book-launch%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-91
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fthe-real-lady-macbeth%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fthe-real-lady-macbeth%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fthe-roller-coast-first-draft%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-82
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fthe-roller-coast-first-draft%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-83
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Ftime-tricks%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-112
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Ftime-tricks%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-113
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fwhy-do-we-love-the-queen%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-72
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fwhy-do-we-love-the-queen%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-73
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fwhy-write-historical-fiction%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-94
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fwhy-write-historical-fiction%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-95
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fwhy-writers-need-other-writers%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-86
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fwhy-writers-need-other-writers%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-87
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fwith-a-little-help-from-heaven%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-108
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fwith-a-little-help-from-heaven%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-109
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fwriting-longhand-a-poll%2F
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-74
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjc-static.local%2Fwriting-longhand-a-poll%2F&format=xml
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\oembed\1.0\embed-75
+Content Type: text/xml
+
+Uri: http://jc-static.local/wp-json/wp/v2/categories/1
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/categories/23
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\categories\23
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/categories/24
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\categories\24
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/categories/25
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\categories\25
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/categories/36
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\categories\36
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/categories/37
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\categories\37
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/pages/15
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\pages\15
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/pages/170
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\pages\170
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/pages/69
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\pages\69
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/pages/7
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\pages\7
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/122
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\122
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/126
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\126
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/135
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\135
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/212
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\212
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/217
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\217
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/220
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\220
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/238
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\238
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/241
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\241
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/258
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\258
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/277
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\277
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/298
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\298
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/3193
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\3193
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/3220
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\3220
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/3234
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\3234
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/3278
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\3278
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/3302
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\3302
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/3321
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\3321
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/3343
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\3343
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/3377
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\3377
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/3411
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\3411
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/3462
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\3462
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/3508
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\3508
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/3533
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\3533
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/3542
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\3542
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/3620
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\3620
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/3631
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\3631
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/3639
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\3639
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/3669
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\3669
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/3680
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\3680
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/3697
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\3697
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/3715
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\3715
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/3725
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\3725
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/3738
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\3738
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/3746
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\3746
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/3776
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\3776
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/3798
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\3798
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/4201
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\4201
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/4260
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\4260
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/4270
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\4270
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/4301
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\4301
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/4326
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\4326
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/4355
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\4355
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/54
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\54
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/posts/61
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\posts\61
+Content Type: application/json
+
+Uri: http://jc-static.local/wp-json/wp/v2/users/5
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\wp-json\wp\v2\users\5
+Content Type: application/json
+
+Uri: http://jc-static.local/writing-longhand-a-poll/
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\writing-longhand-a-poll\index.htm
+Content Type: text/html
+
+Uri: http://jc-static.local/xmlrpc.php?rsd
+File Name: C:\Users\LENOVO\Desktop\jc-static.local\xmlrpc.php
+Content Type: text/xml
+
